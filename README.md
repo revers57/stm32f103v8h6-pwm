@@ -1,1 +1,2 @@
-# STM32F103V8H6-pwm
+# stm32f103v8h6-pwm
+Control the rotation speed of dc motor via pwm.
