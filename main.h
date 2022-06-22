@@ -11,7 +11,6 @@
 #include "Port.h"
 #include "Timer.h"
 #include "SysTick.h"
-#include "FlashMemory.h"
 #include "CANProtocol.h"
 
 extern osMutexId  xGlobalMutexId;
